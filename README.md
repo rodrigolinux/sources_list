@@ -1,2 +1,1 @@
-### sources_list
-__Repo with sources.list for some distros__
+_Repo with sources.list for some distros_
