@@ -1,4 +1,6 @@
-# deb http://deb.debian.org/debian/ bullseye-updates main contrib
+# DEBIAN 11
+
+# # deb http://deb.debian.org/debian/ bullseye-updates main contrib
 # deb-src http://deb.debian.org/debian/ bullseye-updates main contrib
 
 # deb http://deb.debian.org/debian bullseye main
